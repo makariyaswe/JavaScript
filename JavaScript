@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>JavaScript</title>
+    </head>
+    <body>
+        <h4>JavaScript</h4>
+
+        <script>
+            1-tapsirma
+            
+            let miywe ="alma"
+            console.log(typeof(miywe))
+
+            let firstname = "Makariya"
+            console.log(typeof(firstname))
+            let age = 15
+            console.log(typeof(age))
+            let mektepti_pitkerdim = false
+            console.log(typeof(mektepti_pitkerdim))
+         2-tapsirma
+            let firstname = "Makariya"
+            console.log("Salem "+firstname)
+            let miywe = "kive"
+            let bahasi = 34000
+            let bazar = "Taxtakopir 4 jol bazar"
+            console.log(bazar + " da" + miywe + "miywe " + bahasi + "sum eken ")
+         3-tapsirma
+            let student = "Nargiza"
+            let age = 25
+            let year = 2026
+
+            console.log(`${student} ${age} jasta bolip ol ${year-age} -jili tuwilgan`)
+
+         
+       
+        </script>
+
+            
+
+        </script>
+    </body>
+</html>
