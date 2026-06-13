@@ -13,6 +13,15 @@
             }else {
                 console.log("Jaqsi,joliniz bolsin!")
             }
+
+            let age = Number(prompt("Jasin neshede"))
+            let ruxsat_berdime = prompt("Ata-anamiz ruxsat berdime?(awa/yaq)")
+             
+            if(age > 18 || ruxsat_berdime ==="awa"){
+                console.log("Instagram paydalansaniz boladi")
+            } else{
+                console.log("sizge mumkin emes")
+            }
           </script>
        <body>
     <html>
